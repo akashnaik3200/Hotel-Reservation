@@ -5,11 +5,7 @@ A simple Node.js API for managing hotel reservations. The API allows you to crea
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [License](#license)
 
 ## Prerequisites
 
